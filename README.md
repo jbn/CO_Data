@@ -10,9 +10,9 @@ The original Colombia department shapefile was obtained from [https://sites.goog
 Files
 ---
 
-- `CO_IPUMS.tsv`: Mapping with FIPS-10, MIGCO2, and DEPTCO codes.
-- `CO_IPUMS_W_GEO.tsv`: Mapping that also includes some geographic characteristics, including centroid positions as per the CRS in `CO_IPUMS.prj`.
-- `CO_IPUMS.shp`: Shapefile including the same information as `CO_IPUMS_W_GEO.tsv`, along with the polygons bounding each department.
+- `CO_DEPT_IPUMS.tsv`: Mapping with FIPS-10, MIGCO2, and DEPTCO codes.
+- `CO_DEPT_IPUMS_W_GEO.tsv`: Mapping that also includes some geographic characteristics, including centroid positions as per the CRS in `CO_IPUMS.prj`.
+- `CO_DEPT_IPUMS.shp`: Shapefile including the same information as `CO_DEPT_IPUMS_W_GEO.tsv`, along with the polygons bounding each department.
 
 Notes
 ---
