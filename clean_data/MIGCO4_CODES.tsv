@@ -1,0 +1,1121 @@
+MIGCO4_CODE	MIGCO4_NAME	MIGCO4_DEPT
+001	Medellín	ANTIOQUIA
+002	Abejorral	ANTIOQUIA
+002	La Unión	ANTIOQUIA
+003	Amagá	ANTIOQUIA
+004	Andes	ANTIOQUIA
+005	Apartado	ANTIOQUIA
+006	Arboletes	ANTIOQUIA
+006	San Juan de Uraba	ANTIOQUIA
+007	Barbosa	ANTIOQUIA
+008	Bello	ANTIOQUIA
+009	Betania	ANTIOQUIA
+009	Cuidad Bolivar	ANTIOQUIA
+010	Caldas	ANTIOQUIA
+011	Carepa	ANTIOQUIA
+012	Carmen de Viboral	ANTIOQUIA
+013	Caucasia	ANTIOQUIA
+014	Chigorodo	ANTIOQUIA
+015	Concordia	ANTIOQUIA
+016	Copacabana	ANTIOQUIA
+017	Dabeiba	ANTIOQUIA
+017	Mutata	ANTIOQUIA
+018	El Bagre	ANTIOQUIA
+018	Nechi	ANTIOQUIA
+019	Envigado	ANTIOQUIA
+020	Fredonia	ANTIOQUIA
+021	Frontino	ANTIOQUIA
+021	Murindo	ANTIOQUIA
+021	Vigia del Fuerte	ANTIOQUIA
+022	Girardota	ANTIOQUIA
+023	Guarne	ANTIOQUIA
+024	Itaguí	ANTIOQUIA
+025	Ituango	ANTIOQUIA
+026	La Ceja	ANTIOQUIA
+027	La Estrella	ANTIOQUIA
+028	Marinilla	ANTIOQUIA
+029	Necocli	ANTIOQUIA
+030	Puerto Berrio	ANTIOQUIA
+031	Rionegro	ANTIOQUIA
+032	Sabaneta	ANTIOQUIA
+033	San Carlos	ANTIOQUIA
+034	San Pedro de Uraba	ANTIOQUIA
+035	San Vicente	ANTIOQUIA
+036	Santa Bárbara	ANTIOQUIA
+036	La Pintada	ANTIOQUIA
+037	Santa Rosa de Osos	ANTIOQUIA
+038	Santuario	ANTIOQUIA
+039	Segovia	ANTIOQUIA
+040	Sonsón	ANTIOQUIA
+041	Turbo	ANTIOQUIA
+042	Urrao	ANTIOQUIA
+043	Yarumal	ANTIOQUIA
+044	Zaragoza	ANTIOQUIA
+045	Cáceres	ANTIOQUIA
+045	Anorí	ANTIOQUIA
+046	Tarazá	ANTIOQUIA
+046	Valdivia	ANTIOQUIA
+047	Angostura	ANTIOQUIA
+047	Campamento	ANTIOQUIA
+048	Briceño	ANTIOQUIA
+048	San Andres	ANTIOQUIA
+048	Toledo	ANTIOQUIA
+049	Buriticá	ANTIOQUIA
+049	Peque	ANTIOQUIA
+049	Sabanalarga	ANTIOQUIA
+050	Abriaquí	ANTIOQUIA
+050	Cañasgordas	ANTIOQUIA
+050	Uramita	ANTIOQUIA
+051	Santafe de Antioquia	ANTIOQUIA
+051	Giraldo	ANTIOQUIA
+051	Caicedo	ANTIOQUIA
+052	Belmira	ANTIOQUIA
+052	San José de la Montaña	ANTIOQUIA
+052	Liborina	ANTIOQUIA
+052	Olaya	ANTIOQUIA
+053	Ebejico	ANTIOQUIA
+053	San Jerónimo	ANTIOQUIA
+053	Sopetrán	ANTIOQUIA
+054	Anza	ANTIOQUIA
+054	Betulia	ANTIOQUIA
+055	Amalfi	ANTIOQUIA
+055	Remedios	ANTIOQUIA
+055	Yondó	ANTIOQUIA
+056	Vegachí	ANTIOQUIA
+056	Yali	ANTIOQUIA
+056	Yolombó	ANTIOQUIA
+057	Carolina	ANTIOQUIA
+057	Gomez Plata	ANTIOQUIA
+057	Guadalupe	ANTIOQUIA
+058	Caracolí	ANTIOQUIA
+058	Maceo	ANTIOQUIA
+058	San Roque	ANTIOQUIA
+059	Puerto Naré (La Magdalena)	ANTIOQUIA
+059	Puerto Triunfo	ANTIOQUIA
+060	San Francisco	ANTIOQUIA
+060	San Luis	ANTIOQUIA
+061	Argelia	ANTIOQUIA
+061	Nariño	ANTIOQUIA
+062	Cisneros	ANTIOQUIA
+062	Santo Domingo	ANTIOQUIA
+062	Hispania	ANTIOQUIA
+062	Pueblorrico	ANTIOQUIA
+062	Salgar	ANTIOQUIA
+063	Alejandría	ANTIOQUIA
+063	Concepción	ANTIOQUIA
+063	San Rafael	ANTIOQUIA
+064	Guatape	ANTIOQUIA
+064	Peñol	ANTIOQUIA
+065	Cocorna	ANTIOQUIA
+065	Granada	ANTIOQUIA
+066	Retiro	ANTIOQUIA
+066	Montebello	ANTIOQUIA
+067	Caramanta	ANTIOQUIA
+067	Valparaíso	ANTIOQUIA
+068	Jardín	ANTIOQUIA
+068	Támesis	ANTIOQUIA
+069	Jericó	ANTIOQUIA
+069	Tarso	ANTIOQUIA
+070	Titiribí	ANTIOQUIA
+070	Venecia	ANTIOQUIA
+071	Armenia	ANTIOQUIA
+071	Heliconia	ANTIOQUIA
+071	Angelópolis	ANTIOQUIA
+072	Don Matías	ANTIOQUIA
+072	Entrerrios	ANTIOQUIA
+072	San Pedro	ANTIOQUIA
+073	Barranquilla	ATLÁNTICO
+074	Baranoa	ATLÁNTICO
+075	Campo de la Cruz	ATLÁNTICO
+076	Malambo	ATLÁNTICO
+077	Puerto Colombia	ATLÁNTICO
+078	Sabanalarga	ATLÁNTICO
+079	Santo Tomas	ATLÁNTICO
+080	Soledad	ATLÁNTICO
+081	Galapa	ATLÁNTICO
+081	Tubará	ATLÁNTICO
+082	Usiacurí	ATLÁNTICO
+082	Juan de Acosta	ATLÁNTICO
+082	Piojo	ATLÁNTICO
+083	Polonuevo	ATLÁNTICO
+083	Sabanagrande	ATLÁNTICO
+084	Palmar de Varela	ATLÁNTICO
+084	Ponedera	ATLÁNTICO
+085	Candelaria	ATLÁNTICO
+085	Manatí	ATLÁNTICO
+086	Santa Lucía	ATLÁNTICO
+086	Suán	ATLÁNTICO
+087	Luruaco	ATLÁNTICO
+087	Repelón	ATLÁNTICO
+088	Bogotá D. C.	BOGOTÁ
+089	Cartagena	BOLÍVAR
+090	Achí	BOLÍVAR
+090	Montecristo	BOLÍVAR
+090	San Jacinto del Cauca	BOLÍVAR
+091	Arjona	BOLÍVAR
+092	Calamar	BOLÍVAR
+092	El Guamo	BOLÍVAR
+093	El Carmen de Bolívar	BOLÍVAR
+094	Magangué	BOLÍVAR
+095	María La Baja	BOLÍVAR
+096	Mompós	BOLÍVAR
+097	Morales	BOLÍVAR
+097	Arenal	BOLÍVAR
+098	Pinillos	BOLÍVAR
+098	Tiquisio	BOLÍVAR
+099	Rio Viejo	BOLÍVAR
+099	Regidor	BOLÍVAR
+100	San Jacinto	BOLÍVAR
+101	San Juan Nepomuceno	BOLÍVAR
+102	San Martín de Loba	BOLÍVAR
+102	El Peñón	BOLÍVAR
+102	Hatillo de Loba	BOLÍVAR
+103	San Pablo	BOLÍVAR
+103	Cantagallo	BOLÍVAR
+103	Simití	BOLÍVAR
+104	Santa Rosa del Sur	BOLÍVAR
+105	Talaiga Nuevo	BOLÍVAR
+105	Circuco	BOLÍVAR
+106	Turbaco	BOLÍVAR
+106	Turbana	BOLÍVAR
+107	Santa Catalina	BOLÍVAR
+107	Clemencia	BOLÍVAR
+107	Santa Rosa	BOLÍVAR
+108	San Estanislao	BOLÍVAR
+108	Villanueva	BOLÍVAR
+109	Mahates	BOLÍVAR
+109	Arroyohondo	BOLÍVAR
+109	Soplaviento	BOLÍVAR
+109	San Cristóbal	BOLÍVAR
+110	Córdoba	BOLÍVAR
+110	Zambrano	BOLÍVAR
+111	Barranco de Loba	BOLÍVAR
+111	Altos de Rosario	BOLÍVAR
+111	Margarita	BOLÍVAR
+111	San Fernando	BOLÍVAR
+112	Tunja	BOYACÁ
+113	Chiquinquirá	BOYACÁ
+114	Duitama	BOYACÁ
+115	Moniquirá	BOYACÁ
+116	Paipa	BOYACÁ
+117	Puerto Boyacá	BOYACÁ
+118	Sogamoso	BOYACÁ
+119	Chiscas	BOYACÁ
+119	Cubará	BOYACÁ
+119	Guicán	BOYACÁ
+120	El Cocuy	BOYACÁ
+120	El Espino	BOYACÁ
+120	Guacamayas	BOYACÁ
+120	Panqueba	BOYACÁ
+120	San Mateo	BOYACÁ
+121	Covarachía	BOYACÁ
+121	Soatá	BOYACÁ
+121	Tipacoque	BOYACÁ
+122	Boavita	BOYACÁ
+122	La Uvita	BOYACÁ
+122	Jericó	BOYACÁ
+123	Chita	BOYACÁ
+123	Socota	BOYACÁ
+124	Sativanorte	BOYACÁ
+124	Sativasur	BOYACÁ
+124	Susacón	BOYACÁ
+124	Belén	BOYACÁ
+124	Tutaza	BOYACÁ
+125	Paz De Río	BOYACÁ
+125	Socha	BOYACÁ
+125	Tasco	BOYACÁ
+126	Aquitania	BOYACÁ
+126	Labranzagrande	BOYACÁ
+126	Pajarito	BOYACÁ
+126	Paya	BOYACÁ
+126	Pisba	BOYACÁ
+127	Busbanza	BOYACÁ
+127	Gámeza	BOYACÁ
+127	Mongua	BOYACÁ
+127	Monguí	BOYACÁ
+127	Tópaga	BOYACÁ
+127	Corrales	BOYACÁ
+128	Beteitiva	BOYACÁ
+128	Cerinza	BOYACÁ
+128	Floresta	BOYACÁ
+128	Santa Rosa de Viterbo	BOYACÁ
+129	Cuitiva	BOYACÁ
+129	Firavitoba	BOYACÁ
+129	Iza	BOYACÁ
+129	Nobsa	BOYACÁ
+129	Tibasosa	BOYACÁ
+130	Pesca	BOYACÁ
+130	Tota	BOYACÁ
+130	Zetaquirá	BOYACÁ
+131	Cómbita	BOYACÁ
+131	Oicatá	BOYACÁ
+131	Sotaquirá	BOYACÁ
+132	Chivatá	BOYACÁ
+132	Toca	BOYACÁ
+132	Tuta	BOYACÁ
+133	Siachoque	BOYACÁ
+133	Soracá	BOYACÁ
+133	Ciénega	BOYACÁ
+133	Rondón	BOYACÁ
+133	Viracachá	BOYACÁ
+134	Berbeo	BOYACÁ
+134	Campohermoso	BOYACÁ
+134	Miraflores	BOYACÁ
+134	Páez	BOYACÁ
+134	San Eduardo	BOYACÁ
+135	Chivor	BOYACÁ
+135	Guayatá	BOYACÁ
+135	San Luis de Gaceno	BOYACÁ
+135	Santa María	BOYACÁ
+136	Almeida	BOYACÁ
+136	Garagoa	BOYACÁ
+136	Macanal	BOYACÁ
+137	Guateque	BOYACÁ
+137	Somondoco	BOYACÁ
+137	Sutatenza	BOYACÁ
+137	Tenza	BOYACÁ
+138	Chinavita	BOYACÁ
+138	La Capilla	BOYACÁ
+138	Pachavita	BOYACÁ
+138	Umbita	BOYACÁ
+139	Boyacá	BOYACÁ
+139	Nuevo Colón	BOYACÁ
+139	Jenesano	BOYACÁ
+139	Tibaná	BOYACÁ
+139	Ramiriquí	BOYACÁ
+140	Ventaquemada	BOYACÁ
+140	Turmequé	BOYACÁ
+141	Cucaita	BOYACÁ
+141	Chiquiza	BOYACÁ
+141	Motavita	BOYACÁ
+141	Samacá	BOYACÁ
+141	Sora	BOYACÁ
+141	Ráquira	BOYACÁ
+142	Arcabuco	BOYACÁ
+142	Gachantivá	BOYACÁ
+142	Villa de Leyva	BOYACÁ
+142	Sáchica	BOYACÁ
+142	Santa Sofía	BOYACÁ
+143	Chitaraque	BOYACÁ
+143	San José De Pare	BOYACÁ
+143	Santana	BOYACÁ
+143	Togüí	BOYACÁ
+144	Saboyá	BOYACÁ
+144	Sacamá	BOYACÁ
+144	San Miguel de Sema	BOYACÁ
+144	Sutamarchán	BOYACÁ
+144	Tinjacá	BOYACÁ
+145	Buenavista	BOYACÁ
+145	Caldas	BOYACÁ
+145	Coper	BOYACÁ
+145	Maripí	BOYACÁ
+145	Muzo	BOYACÁ
+146	Briceño	BOYACÁ
+146	Pauna	BOYACÁ
+146	San Pablo de Borbur	BOYACÁ
+146	Tununguá	BOYACÁ
+147	La Victoria	BOYACÁ
+147	Otanche	BOYACÁ
+147	Quípama	BOYACÁ
+148	Manizales	CALDAS
+149	Aguadas	CALDAS
+150	Anserma	CALDAS
+151	Chinchiná	CALDAS
+152	La Dorada	CALDAS
+153	Manzanares	CALDAS
+154	Neira	CALDAS
+155	Palestina	CALDAS
+156	Pensilvania	CALDAS
+157	Riosucio	CALDAS
+158	Marulanda	CALDAS
+158	Salamina	CALDAS
+159	Samaná	CALDAS
+159	Norcasia	CALDAS
+160	Marmato	CALDAS
+160	Supía	CALDAS
+161	Villamaría	CALDAS
+162	Marquetalia	CALDAS
+162	Victoria	CALDAS
+163	La Merced	CALDAS
+163	Pácora	CALDAS
+164	Filadelfia	CALDAS
+164	Aranzazu	CALDAS
+165	Belalcázar	CALDAS
+165	Risaralda	CALDAS
+165	San José	CALDAS
+165	Viterbo	CALDAS
+166	Florencia	CAQUETÁ
+167	Cartagena del Chairá	CAQUETÁ
+167	El Doncello	CAQUETÁ
+168	Puerto Rico	CAQUETÁ
+169	San Vicente del Caguán	CAQUETÁ
+170	Valparaiso	CAQUETÁ
+170	Solita	CAQUETÁ
+171	Currillo	CAQUETÁ
+171	San José de la Fragua	CAQUETÁ
+172	Albania	CAQUETÁ
+172	Belén de los Andaquies	CAQUETÁ
+172	Morelia	CAQUETÁ
+173	Solano	CAQUETÁ
+173	Milán	CAQUETÁ
+174	El Paujíl	CAQUETÁ
+174	Getucha	CAQUETÁ
+174	La Montañita	CAQUETÁ
+175	Popayán	CAUCA
+176	Bolívar	CAUCA
+176	Sucre	CAUCA
+177	Cajibío	CAUCA
+178	Caldono	CAUCA
+179	Padilla	CAUCA
+179	Caloto	CAUCA
+180	El Tambo	CAUCA
+181	Guapi	CAUCA
+182	Almaguer	CAUCA
+182	La Vega	CAUCA
+183	Morales	CAUCA
+184	Páez	CAUCA
+185	Patía	CAUCA
+186	Piendamó	CAUCA
+187	Puerto Tejada	CAUCA
+188	Santander de Quilichao	CAUCA
+188	Villa Rica	CAUCA
+189	Silvia	CAUCA
+190	Suárez	CAUCA
+191	Timbío	CAUCA
+192	Timbiquí	CAUCA
+193	López	CAUCA
+193	Buenos Aires	CAUCA
+194	Corinto	CAUCA
+194	Miranda	CAUCA
+195	Toribío	CAUCA
+195	Jambaló	CAUCA
+196	Puracé	CAUCA
+196	Inzá	CAUCA
+196	Totoró	CAUCA
+197	La Sierra	CAUCA
+197	Rosas	CAUCA
+197	Sotará	CAUCA
+198	Argelia	CAUCA
+198	Balboa	CAUCA
+199	Florencia	CAUCA
+199	Mercaderes	CAUCA
+200	San Sebastián	CAUCA
+200	Santa Rosa	CAUCA
+200	Piamonte	CAUCA
+201	Valledupar	CESAR
+201	Pueblo Bello	CESAR
+202	Aguachica	CESAR
+203	Agustín Codazzi	CESAR
+204	Bosconia	CESAR
+205	Chimichagua	CESAR
+206	Chiriguaná	CESAR
+207	Curumaní	CESAR
+208	El Copey	CESAR
+209	Becerril	CESAR
+209	La Jagua de Ibirico	CESAR
+210	Manaure	CESAR
+210	La Paz	CESAR
+210	San Diego	CESAR
+211	Astrea	CESAR
+211	El Paso	CESAR
+212	Pailitas	CESAR
+212	Tamalameque	CESAR
+213	Gamarra	CESAR
+213	La Gloria	CESAR
+213	Pelaya	CESAR
+214	González	CESAR
+214	Río de Oro	CESAR
+215	San Alberto	CESAR
+215	San Martín	CESAR
+216	Montería	CÓRDOBA
+217	Ayapel	CÓRDOBA
+218	Cereté	CÓRDOBA
+219	Chinú	CÓRDOBA
+220	Cienaga de Oro	CÓRDOBA
+221	Lorica	CÓRDOBA
+221	Cotorra	CÓRDOBA
+222	Montelíbano	CÓRDOBA
+222	La Apartada	CÓRDOBA
+222	Puerto Libertador	CÓRDOBA
+223	Planeta Rica	CÓRDOBA
+224	Buenavista	CÓRDOBA
+224	Pueblo Nuevo	CÓRDOBA
+224	San Carlos	CÓRDOBA
+225	Sahagún	CÓRDOBA
+226	San Andrés de Sotavento	CÓRDOBA
+227	San Bernardo del Viento	CÓRDOBA
+228	San Pelayo	CÓRDOBA
+229	Tierralta	CÓRDOBA
+230	Valencia	CÓRDOBA
+231	Canalete	CÓRDOBA
+231	Los Córdobas	CÓRDOBA
+232	Moñitos	CÓRDOBA
+232	Puerto Escondido	CÓRDOBA
+233	Purísima	CÓRDOBA
+233	San Antero	CÓRDOBA
+234	Chimá	CÓRDOBA
+234	Momil	CÓRDOBA
+235	Cajicá	CUNDINAMARCA
+236	Chía	CUNDINAMARCA
+237	Facatativá	CUNDINAMARCA
+238	Funza	CUNDINAMARCA
+239	Fusagasugá	CUNDINAMARCA
+240	Girardot	CUNDINAMARCA
+241	Guaduas	CUNDINAMARCA
+242	Madrid	CUNDINAMARCA
+243	Mosquera	CUNDINAMARCA
+244	Pacho	CUNDINAMARCA
+245	Sibate	CUNDINAMARCA
+246	Soacha	CUNDINAMARCA
+246	Granada	CUNDINAMARCA
+247	Ubaté	CUNDINAMARCA
+248	Villeta	CUNDINAMARCA
+249	Zipaquirá	CUNDINAMARCA
+250	Yacopí	CUNDINAMARCA
+250	Puerto Salgar	CUNDINAMARCA
+251	Caparrapí	CUNDINAMARCA
+251	Utica	CUNDINAMARCA
+252	La Palma	CUNDINAMARCA
+252	La Peña	CUNDINAMARCA
+253	El Peñón	CUNDINAMARCA
+253	Paime	CUNDINAMARCA
+253	San Cayetano	CUNDINAMARCA
+253	Topaipí	CUNDINAMARCA
+253	Villagomez	CUNDINAMARCA
+254	Carmen de Carupa	CUNDINAMARCA
+254	Simijaca	CUNDINAMARCA
+254	Susa	CUNDINAMARCA
+255	Fúquene	CUNDINAMARCA
+255	Guachetá	CUNDINAMARCA
+255	Lenguazaque	CUNDINAMARCA
+256	Manta	CUNDINAMARCA
+256	Tibirita	CUNDINAMARCA
+256	Villapinzón	CUNDINAMARCA
+257	Chocontá	CUNDINAMARCA
+257	Machetá	CUNDINAMARCA
+258	Suesca	CUNDINAMARCA
+258	Cucunubá	CUNDINAMARCA
+258	Sutatausa	CUNDINAMARCA
+259	Cogua	CUNDINAMARCA
+259	Nemocón	CUNDINAMARCA
+259	Tausa	CUNDINAMARCA
+260	Guatavita	CUNDINAMARCA
+260	Sesquilé	CUNDINAMARCA
+260	Gachancipá	CUNDINAMARCA
+261	Choachí	CUNDINAMARCA
+261	Fómeque	CUNDINAMARCA
+262	Gachetá	CUNDINAMARCA
+262	Gama	CUNDINAMARCA
+262	Junín	CUNDINAMARCA
+263	Guasca	CUNDINAMARCA
+263	La Calera	CUNDINAMARCA
+264	Sopó	CUNDINAMARCA
+264	Tocancipá	CUNDINAMARCA
+265	Caqueza	CUNDINAMARCA
+265	Chipaque	CUNDINAMARCA
+265	Ubaque	CUNDINAMARCA
+266	Fosca	CUNDINAMARCA
+266	Guayabetal	CUNDINAMARCA
+266	Quetame	CUNDINAMARCA
+266	Une	CUNDINAMARCA
+266	Gutiérrez	CUNDINAMARCA
+267	Nimaima	CUNDINAMARCA
+267	Quebradanegra	CUNDINAMARCA
+267	Vergara	CUNDINAMARCA
+268	La Vega	CUNDINAMARCA
+268	San Francisco	CUNDINAMARCA
+268	Supatá	CUNDINAMARCA
+269	Tabio	CUNDINAMARCA
+269	Subachoque	CUNDINAMARCA
+269	El Rosal	CUNDINAMARCA
+270	Cota	CUNDINAMARCA
+270	Tenjo	CUNDINAMARCA
+271	Guayabal de Síquima	CUNDINAMARCA
+271	Albán	CUNDINAMARCA
+271	Sasaima	CUNDINAMARCA
+271	Nocaima	CUNDINAMARCA
+272	Bituima	CUNDINAMARCA
+272	Chaguaní	CUNDINAMARCA
+272	Quipile	CUNDINAMARCA
+272	Vianí	CUNDINAMARCA
+273	Beltrán	CUNDINAMARCA
+273	Guataquí	CUNDINAMARCA
+273	Pulí	CUNDINAMARCA
+273	Jerusalén	CUNDINAMARCA
+273	San Juan de Rio Seco	CUNDINAMARCA
+273	Anapoima	CUNDINAMARCA
+273	La Mesa	CUNDINAMARCA
+273	Nariño	CUNDINAMARCA
+274	Anolaima	CUNDINAMARCA
+274	Cachipay	CUNDINAMARCA
+275	Bojacá	CUNDINAMARCA
+275	Zipacón	CUNDINAMARCA
+275	Tena	CUNDINAMARCA
+275	San Antonio del Tequendama	CUNDINAMARCA
+276	Tocaima	CUNDINAMARCA
+276	Apulo	CUNDINAMARCA
+277	Silvania	CUNDINAMARCA
+277	Tibacuy	CUNDINAMARCA
+277	Viotá	CUNDINAMARCA
+277	El Colegio	CUNDINAMARCA
+278	Arbeláez	CUNDINAMARCA
+278	Pasca	CUNDINAMARCA
+279	Cabrera	CUNDINAMARCA
+279	Venecia	CUNDINAMARCA
+279	San Bernardo	CUNDINAMARCA
+279	Pandi	CUNDINAMARCA
+280	Agua de Dios	CUNDINAMARCA
+280	Ricaurte	CUNDINAMARCA
+280	Nilo	CUNDINAMARCA
+281	Gachalá	CUNDINAMARCA
+281	Paratebueno	CUNDINAMARCA
+281	Ubalá	CUNDINAMARCA
+281	Medina	CUNDINAMARCA
+282	Quibdó	CHOCÓ
+282	Atrato	CHOCÓ
+282	Medio Atrato	CHOCÓ
+282	Río Quito	CHOCÓ
+283	Bajo Baudó	CHOCÓ
+283	Medio Baudó	CHOCÓ
+285	Itsmina	CHOCÓ
+285	El Cantón del San Pablo	CHOCÓ
+285	Medio San Juan	CHOCÓ
+285	Unión Panamericana	CHOCÓ
+286	Riosucio	CHOCÓ
+286	Carmen del Darien	CHOCÓ
+286	Belén de Bajirá	CHOCÓ
+287	Tadó	CHOCÓ
+287	Cértegui	CHOCÓ
+287	Río Iro	CHOCÓ
+288	Nuquí	CHOCÓ
+288	Alto Baudó	CHOCÓ
+289	Bagadó	CHOCÓ
+289	El Carmen de Atrato	CHOCÓ
+289	Lloró	CHOCÓ
+290	Condoto	CHOCÓ
+290	Novita	CHOCÓ
+291	El Litoral del San Juan	CHOCÓ
+291	San José del Palmar	CHOCÓ
+291	Sipí	CHOCÓ
+292	Acandí	CHOCÓ
+292	Unguía	CHOCÓ
+293	Bahía Solano	CHOCÓ
+293	Bojayá	CHOCÓ
+293	Juradó	CHOCÓ
+294	Neiva	HUILA
+295	Campoalegre	HUILA
+296	Garzón	HUILA
+297	La Plata	HUILA
+298	Pitalito	HUILA
+299	San Agustín	HUILA
+300	Baraya	HUILA
+300	Colombia	HUILA
+300	Villavieja	HUILA
+301	Aipe	HUILA
+301	Tello	HUILA
+302	Palermo	HUILA
+302	Santa María	HUILA
+303	Algeciras	HUILA
+303	Rivera	HUILA
+304	Hobo	HUILA
+304	Iquira	HUILA
+304	Yaguará	HUILA
+304	Teruel	HUILA
+305	Gigante	HUILA
+305	Nataga	HUILA
+305	Tesalia	HUILA
+306	Agrado	HUILA
+306	Altamira	HUILA
+306	Pital	HUILA
+306	Paicol	HUILA
+307	La Argentina	HUILA
+307	Tarqui	HUILA
+308	Suaza	HUILA
+308	Timaná	HUILA
+308	Guadalupe	HUILA
+309	Elías	HUILA
+309	Isnos	HUILA
+309	Oporapa	HUILA
+309	Saladoblanco	HUILA
+310	Acevedo	HUILA
+310	Palestina	HUILA
+311	Riohacha	LA GUAJIRA
+311	Dibulla	LA GUAJIRA
+312	Barrancas	LA GUAJIRA
+312	Hatonuevo	LA GUAJIRA
+313	Fonseca	LA GUAJIRA
+313	Distracción	LA GUAJIRA
+314	Maicao	LA GUAJIRA
+314	Albania	LA GUAJIRA
+315	Manaure	LA GUAJIRA
+316	San Juan del Cesar	LA GUAJIRA
+317	Uribia	LA GUAJIRA
+318	El Molino	LA GUAJIRA
+318	Urumita	LA GUAJIRA
+318	La Jagua del Pilar	LA GUAJIRA
+318	Villanueva	LA GUAJIRA
+319	Santa Marta	MAGDALENA
+320	Aracataca	MAGDALENA
+320	El Retén	MAGDALENA
+321	Ariguaní	MAGDALENA
+322	Ciénaga	MAGDALENA
+322	Zona Bananera	MAGDALENA
+323	El Banco	MAGDALENA
+324	Fundación	MAGDALENA
+324	Algarrobo	MAGDALENA
+325	Pivijay	MAGDALENA
+326	Plato	MAGDALENA
+326	Nueva Granada	MAGDALENA
+326	Sabanas de San Angel	MAGDALENA
+326	Santa Bárbara de Pinto	MAGDALENA
+327	San Zenón	MAGDALENA
+327	Santa Ana	MAGDALENA
+327	Pijiño del Carmen	MAGDALENA
+328	Puebloviejo	MAGDALENA
+328	Sitionuevo	MAGDALENA
+329	El Piñón	MAGDALENA
+329	Zapayán	MAGDALENA
+329	Remolino	MAGDALENA
+329	Salamina	MAGDALENA
+330	Cerro San Antonio	MAGDALENA
+330	Pedraza	MAGDALENA
+330	Concordia	MAGDALENA
+331	Chivolo	MAGDALENA
+331	Tenerife	MAGDALENA
+332	Guamal	MAGDALENA
+332	San Sebastián de Buenavista	MAGDALENA
+333	Villavicencio	META
+334	Acacias	META
+335	Granada	META
+336	Puerto López	META
+337	Mesetas	META
+337	La Macarena	META
+337	La Uribe	META
+338	Puerto Rico	META
+338	Vista Hermosa	META
+339	Mapiripán	META
+339	Puerto Concordia	META
+339	Puerto Lleras	META
+340	Puerto Gaitán	META
+340	San Martín	META
+341	Barranca de Upia	META
+341	Cabuyaro	META
+341	Cumaral	META
+341	El Calvario	META
+341	Restrepo	META
+341	San Juanito	META
+342	Fuente de Oro	META
+342	Lejanías	META
+342	San Juan de Arama	META
+343	Castilla la Nueva	META
+343	San Luis de Cubarral	META
+343	El Castillo	META
+343	El Dorado	META
+343	Guamal	META
+343	San Carlos de Guaroa	META
+344	Pasto	NARINO
+344	Nariño	NARINO
+345	Barbacoas	NARINO
+346	Cumbal	NARINO
+347	El Tambo	NARINO
+347	El Peñol	NARINO
+348	Guaitarilla	NARINO
+349	Ipiales	NARINO
+350	La Unión	NARINO
+351	La Tola	NARINO
+351	Olaya Herrera	NARINO
+352	Samaniego	NARINO
+353	Sandoná	NARINO
+354	Tumaco	NARINO
+355	Túquerres	NARINO
+356	Mosquera	NARINO
+356	Maguí	NARINO
+356	Francisco Pizarro	NARINO
+356	Roberto Payán	NARINO
+357	El Charco	NARINO
+357	Santa Bárbara	NARINO
+358	El Rosario	NARINO
+358	Leiva	NARINO
+359	Cumbitara	NARINO
+359	Policarpa	NARINO
+359	Los Andes	NARINO
+360	La Llanada	NARINO
+360	Linares	NARINO
+361	Mallama	NARINO
+361	Ricaurte	NARINO
+362	Sapuyés	NARINO
+362	Providencia	NARINO
+362	Santacruz	NARINO
+363	Aldana	NARINO
+363	Guachucal	NARINO
+363	Cuaspud	NARINO
+364	Contadero	NARINO
+364	Pupiales	NARINO
+364	Gualmatán	NARINO
+365	Iles	NARINO
+365	Ospina	NARINO
+365	Imués	NARINO
+366	Tangua	NARINO
+366	Yacuanquer	NARINO
+367	Ancuyá	NARINO
+367	La Florida	NARINO
+367	Consaca	NARINO
+368	Funes	NARINO
+368	Puerres	NARINO
+369	Potosí	NARINO
+369	Córdoba	NARINO
+370	Arboleda	NARINO
+370	Buesaco	NARINO
+371	San Lorenzo	NARINO
+371	San Pedro de Cartago	NARINO
+372	Chachagüí	NARINO
+372	Taminango	NARINO
+373	Belén	NARINO
+373	Colón	NARINO
+373	San Bernardo	NARINO
+374	La Cruz	NARINO
+374	San Pablo	NARINO
+375	Albán	NARINO
+375	El Tablón	NARINO
+376	Cúcuta	NORTE SANTANDER
+376	Puerto Santander	NORTE SANTANDER
+377	Abrego	NORTE SANTANDER
+377	La Esperanza	NORTE SANTANDER
+378	Los Patios	NORTE SANTANDER
+379	Ocaña	NORTE SANTANDER
+380	Pamplona	NORTE SANTANDER
+381	Sardinata	NORTE SANTANDER
+382	Tibú	NORTE SANTANDER
+383	Villa del Rosario	NORTE SANTANDER
+384	El Tarra	NORTE SANTANDER
+384	Teorama	NORTE SANTANDER
+385	Convención	NORTE SANTANDER
+385	El Carmen	NORTE SANTANDER
+386	Hacarí	NORTE SANTANDER
+386	San Calixto	NORTE SANTANDER
+386	La Playa	NORTE SANTANDER
+387	Cáchira	NORTE SANTANDER
+388	Bucarasica	NORTE SANTANDER
+388	Gramalote	NORTE SANTANDER
+388	Lourdes	NORTE SANTANDER
+388	Villa Caro	NORTE SANTANDER
+389	Arboledas	NORTE SANTANDER
+389	Salazar	NORTE SANTANDER
+390	El Zulia	NORTE SANTANDER
+390	San Cayetano	NORTE SANTANDER
+390	Santiago	NORTE SANTANDER
+391	Cucutilla	NORTE SANTANDER
+391	Pamplonita	NORTE SANTANDER
+391	Bochalema	NORTE SANTANDER
+391	Durania	NORTE SANTANDER
+392	Chinácota	NORTE SANTANDER
+392	Herrán	NORTE SANTANDER
+392	Ragonvalia	NORTE SANTANDER
+393	Labateca	NORTE SANTANDER
+393	Toledo	NORTE SANTANDER
+394	Cácota	NORTE SANTANDER
+394	Chitagá	NORTE SANTANDER
+394	Mutiscua	NORTE SANTANDER
+394	Silos	NORTE SANTANDER
+395	Armenia	QUINDIO
+396	Calarcá	QUINDIO
+397	Circasia	QUINDIO
+397	Salento	QUINDIO
+398	La Tebaida	QUINDIO
+399	Montenegro	QUINDIO
+400	Filandia	QUINDIO
+400	Quimbaya	QUINDIO
+401	Buenavista	QUINDIO
+401	Génova	QUINDIO
+401	Pijao	QUINDIO
+401	Córdoba	QUINDIO
+402	Pereira	RISARALDA
+403	Belén de Umbria	RISARALDA
+404	Dosquebradas	RISARALDA
+405	La Virginia	RISARALDA
+405	Marsella	RISARALDA
+406	Quinchía	RISARALDA
+407	Santa Rosa de Cabal	RISARALDA
+408	Guatica	RISARALDA
+408	Mistrato	RISARALDA
+409	Apía	RISARALDA
+409	Pueblo Rico	RISARALDA
+410	Balboa	RISARALDA
+410	Santuario	RISARALDA
+410	La Celia	RISARALDA
+411	Bucaramanga	SANTANDER
+412	Barrancabermeja	SANTANDER
+413	Cimitarra	SANTANDER
+414	Floridablanca	SANTANDER
+415	Girón	SANTANDER
+416	Piedecuesta	SANTANDER
+417	Puerto Wilches	SANTANDER
+418	Rionegro	SANTANDER
+419	San Gil	SANTANDER
+420	San Vicente de Chucurí	SANTANDER
+421	Socorro	SANTANDER
+422	Vélez	SANTANDER
+423	El Playón	SANTANDER
+423	Matanza	SANTANDER
+423	Suratá	SANTANDER
+424	Sabana de Torres	SANTANDER
+424	Lebrija	SANTANDER
+425	California	SANTANDER
+425	Santa Bárbara	SANTANDER
+425	Guaca	SANTANDER
+425	Cerrito	SANTANDER
+425	Vetas	SANTANDER
+425	Tona	SANTANDER
+425	Charta	SANTANDER
+426	Betulia	SANTANDER
+426	Los Santos	SANTANDER
+426	Zapatoca	SANTANDER
+427	Capitanejo	SANTANDER
+427	Carcasi	SANTANDER
+427	Concepción	SANTANDER
+427	Macaravita	SANTANDER
+428	Enciso	SANTANDER
+428	Molagavita	SANTANDER
+428	San José de Miranda	SANTANDER
+428	San Miguel	SANTANDER
+429	Villanueva	SANTANDER
+429	Aratoca	SANTANDER
+429	Cepitá	SANTANDER
+429	Jordán	SANTANDER
+429	Curití	SANTANDER
+430	Mogotes	SANTANDER
+430	Onzaga	SANTANDER
+430	San Joaquín	SANTANDER
+431	Barichara	SANTANDER
+431	Pinchote	SANTANDER
+431	Paramo	SANTANDER
+431	Palmar	SANTANDER
+431	Hato	SANTANDER
+431	Galán	SANTANDER
+431	Valle de San José	SANTANDER
+431	Ocamonte	SANTANDER
+431	Cabrera	SANTANDER
+432	Coromoro	SANTANDER
+432	Charalá	SANTANDER
+432	Encino	SANTANDER
+432	Gambita	SANTANDER
+433	El Carmen de Chucuri	SANTANDER
+433	Puerto Parra	SANTANDER
+433	Simacota	SANTANDER
+434	Aguada	SANTANDER
+434	Chipatá	SANTANDER
+434	La Paz	SANTANDER
+434	Santa Helena del Opón	SANTANDER
+434	San Benito	SANTANDER
+435	Chimá	SANTANDER
+435	Confines	SANTANDER
+435	Contratación	SANTANDER
+435	Guadalupe	SANTANDER
+435	Palmas del Socorro	SANTANDER
+435	El Guacamayo	SANTANDER
+436	Guapota	SANTANDER
+436	Oiba	SANTANDER
+436	Suaita	SANTANDER
+437	Bolívar	SANTANDER
+437	Landazuri	SANTANDER
+438	Barbosa	SANTANDER
+438	Güepsa	SANTANDER
+439	Albania	SANTANDER
+439	Guavata	SANTANDER
+439	Jesus María	SANTANDER
+439	Puente Nacional	SANTANDER
+440	Málaga	SANTANDER
+440	San Andres	SANTANDER
+441	El Peñón	SANTANDER
+441	La Belleza	SANTANDER
+441	Sucre	SANTANDER
+441	Florián	SANTANDER
+442	Sincelejo	SUCRE
+443	Corozal	SUCRE
+443	El Roble	SUCRE
+444	Guaranda	SUCRE
+444	Majagual	SUCRE
+445	Chalán	SUCRE
+445	Ovejas	SUCRE
+446	Sampués	SUCRE
+447	Galeras	SUCRE
+447	Caimito	SUCRE
+447	San Benito Abad	SUCRE
+448	La Unión	SUCRE
+448	San Marcos	SUCRE
+449	San Onofre	SUCRE
+450	San Luis de Sincé	SUCRE
+451	Sucre	SUCRE
+452	Palmito	SUCRE
+452	Tolú	SUCRE
+452	Coveñas	SUCRE
+453	Toluviejo	SUCRE
+453	Coloso	SUCRE
+454	Los Palmitos	SUCRE
+454	Morroa	SUCRE
+454	San Juan de Betulia	SUCRE
+455	Buenavista	SUCRE
+455	San Pedro	SUCRE
+456	Ibagué	TOLIMA
+457	Ataco	TOLIMA
+458	Chaparral	TOLIMA
+459	Coyaima	TOLIMA
+460	Espinal	TOLIMA
+461	Flandes	TOLIMA
+462	Fresno	TOLIMA
+463	Guamo	TOLIMA
+464	Honda	TOLIMA
+465	Lérida	TOLIMA
+465	Venadillo	TOLIMA
+466	Líbano	TOLIMA
+467	Mariquita	TOLIMA
+468	Carmen de Apicalá	TOLIMA
+468	Melgar	TOLIMA
+469	Natagaima	TOLIMA
+470	Ortega	TOLIMA
+471	Planadas	TOLIMA
+472	Purificación	TOLIMA
+472	Suárez	TOLIMA
+473	Rioblanco	TOLIMA
+474	Cajamarca	TOLIMA
+475	Rovira	TOLIMA
+476	Casabianca	TOLIMA
+476	Herveo	TOLIMA
+476	Falan	TOLIMA
+476	Palocabildo	TOLIMA
+477	Murillo	TOLIMA
+477	Villahermosa	TOLIMA
+477	Santa Isabel	TOLIMA
+478	Ambalema	TOLIMA
+478	Armero	TOLIMA
+479	Alvarado	TOLIMA
+479	Coello	TOLIMA
+479	Piedras	TOLIMA
+479	Anzoategui	TOLIMA
+480	Valle de San Juan	TOLIMA
+480	San Luis	TOLIMA
+480	Saldaña	TOLIMA
+481	Roncesvalles	TOLIMA
+481	San Antonio	TOLIMA
+482	Cunday	TOLIMA
+482	Villarrica	TOLIMA
+482	Icononzo	TOLIMA
+483	Alpujarra	TOLIMA
+483	Prado	TOLIMA
+483	Dolores	TOLIMA
+484	Cali	Valle del Cauca
+485	Andalucía	Valle del Cauca
+486	Ansermanuevo	Valle del Cauca
+486	El Aguila	Valle del Cauca
+487	Buenaventura	Valle del Cauca
+488	Buga	Valle del Cauca
+489	Bugalagrande	Valle del Cauca
+490	Caicedonia	Valle del Cauca
+491	Candelaria	Valle del Cauca
+492	Alcalá	Valle del Cauca
+492	Cartago	Valle del Cauca
+492	Ulloa	Valle del Cauca
+493	Dagua	Valle del Cauca
+493	La Cumbre	Valle del Cauca
+494	El Cerrito	Valle del Cauca
+495	Florida	Valle del Cauca
+496	Guacari	Valle del Cauca
+496	Ginebra	Valle del Cauca
+497	Jamundí	Valle del Cauca
+498	La Unión	Valle del Cauca
+498	La Victoria	Valle del Cauca
+499	Palmira	Valle del Cauca
+500	Pradera	Valle del Cauca
+501	Roldanillo	Valle del Cauca
+502	Sevilla	Valle del Cauca
+503	Tuluá	Valle del Cauca
+504	Yumbo	Valle del Cauca
+505	Zarzal	Valle del Cauca
+506	Argelia	Valle del Cauca
+506	Versalles	Valle del Cauca
+506	El Cairo	Valle del Cauca
+507	Obando	Valle del Cauca
+507	Toro	Valle del Cauca
+508	Bolívar	Valle del Cauca
+508	El Dovio	Valle del Cauca
+509	Riofrío	Valle del Cauca
+509	Trujillo	Valle del Cauca
+510	San Pedro	Valle del Cauca
+510	Yotoco	Valle del Cauca
+511	Darién (Calima)	Valle del Cauca
+511	Vijes	Valle del Cauca
+511	Restrepo	Valle del Cauca
+512	Arauca	ARAUCA
+512	Cravo Norte	ARAUCA
+513	Arauquita	ARAUCA
+513	Fortul	ARAUCA
+514	Saravena	ARAUCA
+515	Puerto Rondón	ARAUCA
+515	Tame	ARAUCA
+516	Yopal	CASANARE
+517	Hato Corozal	CASANARE
+517	Paz de Ariporo	CASANARE
+518	La Salina	CASANARE
+518	Pore	CASANARE
+518	Támara	CASANARE
+518	Nunchía	CASANARE
+518	Trinidad	CASANARE
+518	Sácama	CASANARE
+519	Aguazul	CASANARE
+519	Maní	CASANARE
+519	Orocué	CASANARE
+519	Recetor	CASANARE
+519	San Luis de Palenque	CASANARE
+520	Chameza	CASANARE and VICHADA
+520	Monterrey	CASANARE and VICHADA
+520	Sabanalarga	CASANARE and VICHADA
+520	Tauramena	CASANARE and VICHADA
+520	Villanueva	CASANARE and VICHADA
+520	Puerto Carreño	CASANARE and VICHADA
+520	La Primavera	CASANARE and VICHADA
+520	Santa Rita	CASANARE and VICHADA
+520	Santa Rosalia	CASANARE and VICHADA
+520	San José de Ocune	CASANARE and VICHADA
+520	Cumbaribo	CASANARE and VICHADA
+521	Mocoa	PUTUMAYO
+522	Orito	PUTUMAYO
+523	Puerto Asis	PUTUMAYO
+524	Valle del Guamuéz	PUTUMAYO
+524	San Miguel	PUTUMAYO
+525	Colón	PUTUMAYO
+525	Sibundoy	PUTUMAYO
+525	San Francisco	PUTUMAYO
+525	Santiago	PUTUMAYO
+526	Villagarzón	PUTUMAYO
+526	Puerto Caicedo	PUTUMAYO
+527	Puerto Guzmán	PUTUMAYO
+527	Puerto Leguízamo	PUTUMAYO
+528	San Andrés	SAN ANDRES
+528	Providencia	SAN ANDRES
+529	Leticia	AMAZONAS
+529	El Encanto	AMAZONAS
+529	La Chorrera	AMAZONAS
+529	Puerto Arica	AMAZONAS
+529	La Pedrera	AMAZONAS
+529	Mirití-Paraná	AMAZONAS
+529	Puerto Nariño	AMAZONAS
+529	Puerto Santander	AMAZONAS
+529	Tarapacáá	AMAZONAS
+530	Inírida	GUAINA
+530	Barranco Mina	GUAINA
+530	San Felipe	GUAINA
+530	Puerto Colombia	GUAINA
+530	La Guadalupe	GUAINA
+530	Cacahual	GUAINA
+530	Pana Pana	GUAINA
+530	Morichal	GUAINA
+531	San José del Guaviare	GUAVIARE
+532	Mitú	VAUPES
+532	Caruru	VAUPES
+532	Pacoa	VAUPES
+532	Taraira	VAUPES
+532	Papunahua	VAUPES
+532	Yavaraté	VAUPES
+533	Calamar	GUAVIARE and VAUPES
+533	El Retorno	GUAVIARE and VAUPES
+533	Miraflores	GUAVIARE and VAUPES
